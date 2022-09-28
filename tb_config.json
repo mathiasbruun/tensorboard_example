@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "tensor_example",
+      "tensorShape": [
+        20034,
+        300
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/mathiasbruun/tensorboard_example/main/tb_doc_tensor.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mathiasbruun/tensorboard_example/main/tb_doc_metadata.tsv"
+    }
+  ]
+}
